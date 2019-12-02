@@ -1,0 +1,7 @@
+---
+permalink: .gitignore
+---
+
+*.log
+
+node_modules/

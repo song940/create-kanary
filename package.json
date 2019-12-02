@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "kelp-argv": "*",
+    "kelp-generator": "^0.0.2",
+    "xprompt": "^0.0.1"
+  },
+  "name": "create-kanary",
+  "version": "0.0.1",
+  "description": "create kanary project ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/create-kanary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/create-kanary.git"
+  },
+  "keywords": [
+    "create",
+    "kanary"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/create-kanary/issues"
+  },
+  "homepage": "https://github.com/song940/create-kanary#readme"
+}

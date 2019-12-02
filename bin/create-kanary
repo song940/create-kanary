@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+const create = require('..');
+const argv = require('kelp-argv');
+const prompts = require('xprompt');
+
+// ~$ create-kanary myapp --page=index --controller=home
+
